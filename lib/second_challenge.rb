@@ -10,7 +10,7 @@ epic_tragedy = {
     patriarch:{},
     matriarch:{},
     heroine:{},
-    heroine_frineds:{}
+    heroine_friends:{}
   }
 }
 end
